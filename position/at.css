@@ -1,0 +1,21 @@
+.conteiner{
+    background-color: grey;
+    width: 50%;
+    position: relative;
+    margin: 350px;
+    margin-top: 20px;
+    left: 400; 
+}
+.box1 {
+    background-color: rgb(12, 12, 14);
+    position: fixed;
+    margin: 20px;
+    padding: 20px;
+    top: 15px;
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    color: white;
+  
+
+}
